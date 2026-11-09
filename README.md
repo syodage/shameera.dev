@@ -1,4 +1,4 @@
-# Shameera Rathnayaka — Personal Website (`SPPortfolio`)
+# Shameera Rathnayaka — Personal Website (`shameera.dev`)
 
 A zero-dependency, SEO-optimized personal website themed with the official **Catppuccin** color palette (`Mocha` default, `Macchiato`, `Frappé`, and `Latte`).
 
